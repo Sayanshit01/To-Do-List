@@ -1,0 +1,128 @@
+/* Add Task Modal Styles */
+#addTaskModal {
+    max-width: 500px;
+    margin: 0 auto;
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Add Task Button Styles */
+.btn-outline-primary {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-outline-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table th {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+/* Optional: Hover effect on table rows */
+table tbody tr:hover {
+    background-color: #f0f0f0;
+}
+
+
+/* Add Task Modal Styles */
+#addTaskModal {
+    max-width: 400px;
+    margin: 0 auto;
+    background: #d3d3cc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Add Task Button Styles */
+.btn-outline-primary {
+    background-color: #FF8C42;
+    color: #fff;
+    border-color: #FF8C42;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-outline-primary:hover {
+    background-color: #FF635B;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background: #FFF2E7;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table th {
+    background-color: #FF8C42;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #FFC6A0;
+}
+
+/* Optional: Hover effect on table rows */
+table tbody tr:hover {
+    background-color: #FFC6A0;
+}
+
+
+
+/* CSS for the image */
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #3b3d3e;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* Hover effect to scale and add a subtle box-shadow on hover */
+img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
